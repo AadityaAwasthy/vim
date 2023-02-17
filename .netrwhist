@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/aaditya02/.vim/UltiSnips'
+let g:netrw_dirhist_5='/home/aaditya02/.vim'
+let g:netrw_dirhist_4='/home/aaditya02'
+let g:netrw_dirhist_3='/home/aaditya02/.vim'
+let g:netrw_dirhist_2='/etc/sudoers.d'
+let g:netrw_dirhist_1='/etc/environment.d'
